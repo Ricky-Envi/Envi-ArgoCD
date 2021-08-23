@@ -1,3 +1,4 @@
 apps:
   - appname: myapp
     projectname: enviargocd
+    url: https://github.com/Ricky-Envi/Envi-ArgoCD.git
