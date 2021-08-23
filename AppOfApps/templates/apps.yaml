@@ -1,0 +1,25 @@
+{{- range $app := .Values.apps }}
+apiVersion: argoproj.io/v1alpha1
+kind: Application
+metadata:
+  name: {{ $app.projectname }}-{{ $app.appname }}
+  namespace: default
+spec:
+  project: {{ $app.projectname }}
+  source:
+    path: {{ $app.appname }}
+    repoURL: 'https://github.com/Ricky-Envi/ArgoCDtest.git'
+    targetRevision: HEAD
+    helm:
+      valueFiles:
+        - values.yaml
+  destination:
+    namespace: {{ $app.projectname }}
+    server: 'https://kubernetes.default.svc'
+  syncPolicy:
+    automated:
+      prune: true
+      selfHeal: true
+    syncOptions:
+      - CreateNamespace=true
+{{ end -}}

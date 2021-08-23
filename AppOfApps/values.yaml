@@ -1,0 +1,3 @@
+apps:
+  - appname: myapp
+    projectname: enviargocd
