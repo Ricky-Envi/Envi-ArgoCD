@@ -1,3 +1,4 @@
 apps:
-  - appname: myapp
-    projectname: enviargocd
+#   - appname: myapp
+#     projectname: myproj
+#     githuburl: https://github.com/Ricky-Envi/Envi-React
