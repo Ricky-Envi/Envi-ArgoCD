@@ -7,7 +7,7 @@ metadata:
 spec:
   project: {{ $app.projectname }}
   source:
-    path: k8s-resource
+    path: helm-resource
     repoURL: {{ $app.githuburl }}
     targetRevision: HEAD
     helm:
