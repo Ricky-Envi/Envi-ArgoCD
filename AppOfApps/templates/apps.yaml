@@ -7,8 +7,8 @@ metadata:
 spec:
   project: {{ $app.projectname }}
   source:
-    path: {{ $app.appname }}
-    repoURL: https://github.com/Ricky-Envi/Envi-ArgoCD.git
+    path: k8s-resource
+    repoURL: {{ $app.githuburl }}
     targetRevision: HEAD
     helm:
       valueFiles:
