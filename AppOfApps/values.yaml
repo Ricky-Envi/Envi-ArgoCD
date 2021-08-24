@@ -27,3 +27,6 @@ apps:
   - appname: testapp
     projectname: test
     githuburl: https://github.com/JungBin-Eom/testapp
+  - appname: hi
+    projectname: test
+    githuburl: https://github.com/JungBin-Eom/hi
