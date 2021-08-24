@@ -9,3 +9,6 @@ apps:
   - appname: hello
     projectname: test
     githuburl: https://github.com/JungBin-Eom/hello
+  - appname: real
+    projectname: test
+    githuburl: https://github.com/JungBin-Eom/real
