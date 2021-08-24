@@ -6,3 +6,6 @@ apps:
   - appname: ttt
     projectname: test1
     githuburl: https://github.com/JungBin-Eom/ttt
+  - appname: testapp
+    projectname: test1
+    githuburl: https://github.com/JungBin-Eom/testapp
