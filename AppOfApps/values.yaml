@@ -6,3 +6,6 @@ apps:
   - appname: myapp
     projectname: test
     githuburl: https://github.com/JungBin-Eom/myapp
+  - appname: myreacttestapp
+    projectname: test
+    githuburl: https://github.com/JungBin-Eom/myreacttestapp
