@@ -2,25 +2,3 @@ apps:
   - appname: example
     projectname: example
     githuburl: https://github.com/JungBin-Eom/example
-
-  - appname: ttt
-    projectname: test1
-    githuburl: https://github.com/JungBin-Eom/ttt
-  - appname: testapp
-    projectname: test1
-    githuburl: https://github.com/JungBin-Eom/testapp
-  - appname: mytest
-    projectname: test1
-    githuburl: https://github.com/JungBin-Eom/mytest
-  - appname: mytest
-    projectname: test1
-    githuburl: https://github.com/JungBin-Eom/mytest
-  - appname: myapptest
-    projectname: test1
-    githuburl: https://github.com/JungBin-Eom/myapptest
-  - appname: real
-    projectname: test1
-    githuburl: https://github.com/JungBin-Eom/real
-  - appname: hi
-    projectname: test1
-    githuburl: https://github.com/JungBin-Eom/hi
