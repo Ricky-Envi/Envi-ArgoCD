@@ -33,3 +33,6 @@ apps:
   - appname: testmyapppsaf
     projectname: test
     githuburl: https://github.com/JungBin-Eom/testmyapppsaf
+  - appname: teststse
+    projectname: test
+    githuburl: https://github.com/JungBin-Eom/teststse
