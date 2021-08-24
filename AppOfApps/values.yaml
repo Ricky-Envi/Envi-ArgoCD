@@ -24,3 +24,6 @@ apps:
   - appname: hi2312
     projectname: test
     githuburl: https://github.com/JungBin-Eom/hi2312
+  - appname: testapp
+    projectname: test
+    githuburl: https://github.com/JungBin-Eom/testapp
