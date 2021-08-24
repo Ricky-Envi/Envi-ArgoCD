@@ -1,4 +1,7 @@
-# apps:
-#   - appname: myapp
-#     projectname: test1
-#     githuburl: https://github.com/JungBin-Eom/myapp
+apps:
+  - appname: myapp
+    projectname: test1
+    githuburl: https://github.com/JungBin-Eom/myapp
+  - appname: myapp2
+    projectname: test1
+    githuburl: https://github.com/JungBin-Eom/myapp2
