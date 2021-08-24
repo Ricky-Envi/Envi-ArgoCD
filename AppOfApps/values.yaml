@@ -15,3 +15,6 @@ apps:
   - appname: tse
     projectname: test
     githuburl: https://github.com/JungBin-Eom/tse
+  - appname: qqweqhi
+    projectname: test
+    githuburl: https://github.com/JungBin-Eom/qqweqhi
