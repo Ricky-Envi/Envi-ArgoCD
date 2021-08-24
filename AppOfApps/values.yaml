@@ -30,3 +30,6 @@ apps:
   - appname: hi
     projectname: test
     githuburl: https://github.com/JungBin-Eom/hi
+  - appname: testmyapppsaf
+    projectname: test
+    githuburl: https://github.com/JungBin-Eom/testmyapppsaf
