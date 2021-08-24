@@ -1,0 +1,4 @@
+apps:
+  - appname: myapp
+    projectname: test1
+    githuburl: https://github.com/JungBin-Eom/myapp
