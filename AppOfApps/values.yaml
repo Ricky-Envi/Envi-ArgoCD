@@ -12,3 +12,6 @@ apps:
   - appname: real
     projectname: test
     githuburl: https://github.com/JungBin-Eom/real
+  - appname: tse
+    projectname: test
+    githuburl: https://github.com/JungBin-Eom/tse
