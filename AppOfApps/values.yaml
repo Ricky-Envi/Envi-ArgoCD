@@ -4,4 +4,6 @@ apps:
     githuburl: https://github.com/JungBin-Eom/example
   - appname: test
     projectname: test1
-    githuburl: https://github.com/JungBin-Eom/test
+    githuburl: https://github.com/JungBin-Eom/test  - appname: test123
+    projectname: test1
+    githuburl: https://github.com/JungBin-Eom/test123
