@@ -39,3 +39,6 @@ apps:
   - appname: test22
     projectname: test
     githuburl: https://github.com/JungBin-Eom/test22
+  - appname: testapp22
+    projectname: test
+    githuburl: https://github.com/JungBin-Eom/testapp22
