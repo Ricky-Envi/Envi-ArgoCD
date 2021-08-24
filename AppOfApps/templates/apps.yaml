@@ -3,7 +3,7 @@ apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
   name: {{ $app.projectname }}-{{ $app.appname }}
-  namespace: default
+  namespace: {{ $app.projectname }}
 spec:
   project: {{ $app.projectname }}
   source:
