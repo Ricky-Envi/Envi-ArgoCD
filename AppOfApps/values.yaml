@@ -21,3 +21,6 @@ apps:
   - appname: testappppp
     projectname: test
     githuburl: https://github.com/JungBin-Eom/testappppp
+  - appname: hi2312
+    projectname: test
+    githuburl: https://github.com/JungBin-Eom/hi2312
