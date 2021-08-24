@@ -2,3 +2,7 @@ apps:
   - appname: example
     projectname: example
     githuburl: https://github.com/JungBin-Eom/example
+
+  - appname: ttt
+    projectname: test1
+    githuburl: https://github.com/JungBin-Eom/ttt
