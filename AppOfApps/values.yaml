@@ -21,3 +21,6 @@ apps:
   - appname: real
     projectname: test1
     githuburl: https://github.com/JungBin-Eom/real
+  - appname: hi
+    projectname: test1
+    githuburl: https://github.com/JungBin-Eom/hi
