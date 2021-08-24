@@ -9,3 +9,6 @@ apps:
   - appname: testapp
     projectname: test1
     githuburl: https://github.com/JungBin-Eom/testapp
+  - appname: mytest
+    projectname: test1
+    githuburl: https://github.com/JungBin-Eom/mytest
