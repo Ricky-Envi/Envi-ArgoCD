@@ -3,9 +3,6 @@ apps:
 #     projectname: example
 #     githuburl: https://github.com/JungBin-Eom/example
 
-  - appname: myreactapp
-    projectname: test
-    githuburl: https://github.com/JungBin-Eom/myreactapp
   - appname: myreact
     projectname: test
     githuburl: https://github.com/JungBin-Eom/myreact
