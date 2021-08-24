@@ -36,3 +36,6 @@ apps:
   - appname: teststse
     projectname: test
     githuburl: https://github.com/JungBin-Eom/teststse
+  - appname: test22
+    projectname: test
+    githuburl: https://github.com/JungBin-Eom/test22
