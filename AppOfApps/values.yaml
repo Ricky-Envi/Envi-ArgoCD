@@ -1,8 +1,4 @@
 apps:
-  - appname: example
-    projectname: example
-    githuburl: https://github.com/JungBin-Eom/example
-
-  - appname: appapapapap
-    projectname: test
-    githuburl: https://github.com/JungBin-Eom/appapapapap
+#   - appname: example
+#     projectname: example
+#     githuburl: https://github.com/JungBin-Eom/example
